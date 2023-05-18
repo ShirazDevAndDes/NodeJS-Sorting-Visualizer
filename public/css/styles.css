@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(20, 20, 20);
+}
+
+.visualizer {
+  height: 200px;
+}
+
+.bar {
+  /* width: 3%; */
+  text-align: center;
+  background-color: slateblue;
+  margin-right: 1px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+.bar:last-child {
+  margin-right: 0px;
+}

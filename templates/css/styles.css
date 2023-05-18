@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(20, 20, 20);
+}
+
+.visualizer {
+  height: 200px;
+}
+
+.bar {
+  width: 3%;
+  background-color: slateblue;
+  margin-right: 1px;
+}
+.bar:last-child {
+  margin-right: 0px;
+}
